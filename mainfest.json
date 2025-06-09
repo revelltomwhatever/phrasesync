@@ -1,0 +1,10 @@
+{
+  "id": "phrasesync",
+  "name": "PhraseSync",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Intelligent phrase linking with dropdown suggestions",
+  "author": "Digvijay S. Todiwal",
+  "repo": "digvijay-s-todiwal/phrasesync",
+  "isDesktopOnly": false
+}
