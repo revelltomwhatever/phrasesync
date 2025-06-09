@@ -3,8 +3,8 @@
   "name": "PhraseSync",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Intelligent phrase linking with dropdown suggestions",
+  "description": "Auto-suggests internal links mid-sentence from note titles, headings, and block references.",
   "author": "Digvijay S. Todiwal",
-  "repo": "digvijay-s-todiwal/phrasesync",
+  "authorUrl": "https://thedigvijay.com",
   "isDesktopOnly": false
 }
